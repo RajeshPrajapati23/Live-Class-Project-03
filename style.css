@@ -31,6 +31,7 @@ body {
   text-decoration: none;
   list-style: none;
   margin-right: 45px;
+ cursor: pointer;
 }
 .list-item:first-child {
   color: #fff;
@@ -47,6 +48,7 @@ body {
   border: 1px solid rgba(255, 255, 0, 0.435);
   border-radius: 8px;
   padding: 7px 15px;
+  cursor: pointer;
 }
 
 .btn-get:hover{
